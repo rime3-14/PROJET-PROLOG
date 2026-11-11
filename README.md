@@ -4,7 +4,7 @@ A terminal Connect Four implementation for the fourth-year ALIA course at INSA L
 
 ## Run a game
 
-Use SWI-Prolog with its standard packages. From the repository root:
+Use SWI-Prolog with its standard packages. Run these commands from the repository root.
 
 ```bash
 swipl -q -s src/main.pl -g init -t halt
